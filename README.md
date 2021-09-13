@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @johnmark-marquez
-- 👀 I’m interested in NodeJS, Python.
-- 🌱 I’m currently learning Machine Learning
+- 👋 Hola, I’m @johnmark-marquez
 
 <!---
 johnmark-marquez/johnmark-marquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
